@@ -57,7 +57,7 @@
     "react-diff-viewer-continued": "^4.2.2",
     "react-dom": "^19.2.0",
     "react-hook-form": "^7.72.1",
-    "react-router-dom": "^7.6.0",
+    "react-router-dom": "^7.17.0",
     "recharts": "^3.8.1",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.3.0",
